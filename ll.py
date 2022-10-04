@@ -14,3 +14,10 @@ y = temp
 
 print('The value of x after swapping: {}'.format(x))
 print('The value of y after swapping: {}'.format(y))
+
+x = input("Type a number: ")
+y = input("Type another number: ")
+
+sum = int(x) + int(y)
+
+print("The sum is: ", sum)
